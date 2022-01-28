@@ -9,7 +9,7 @@ Also migrated some of the bash script from:
 https://jamesachambers.com/measure-raspberry-pi-undervoltage-true-clock-speeds/ 
 
 Output now looks like this:
-
+```
 Current Configuration:
 arm_freq=2000
 gpu_freq=600
@@ -30,3 +30,4 @@ Checking for throttling issues since last reboot...
 throttled=0x0
 
 No Throttling, Things are looking good!
+```
