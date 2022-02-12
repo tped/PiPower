@@ -3,7 +3,7 @@ Raspberry Pi Power &amp; Throttling Decoder (vcgencmd) - Python 3
 
 A Python & github Refresher project ... seems to work:  any/all suggestions appreciated
 
-Converted python2 script from booton of this page:
+Converted python2 script from bottom of this page:
 https://harlemsquirrel.github.io/shell/2019/01/05/monitoring-raspberry-pi-power-and-thermal-issues.html
 Also migrated some of the bash script from:
 https://jamesachambers.com/measure-raspberry-pi-undervoltage-true-clock-speeds/ 
